@@ -1,0 +1,16 @@
+/**
+ * Transparent PNG fix.
+ */
+  #logo-image,
+  #primary IMG,
+  #block-views-modules-block_1 IMG,
+  #block-stuartc_module-1 IMG,
+  BODY.page-s-module-s .view-id-modules IMG
+  {
+    behavior: url('/stuar.tc/lark/sites/all/themes/stuartc_theme/iepngfix/iepngfix.htc');
+  }
+
+  BODY.node-type-module .content .resources
+  {
+    margin-left: 294px;
+  }

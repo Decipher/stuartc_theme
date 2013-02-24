@@ -1,0 +1,251 @@
+  /* Twitter Block */
+  #block-views-tweets-block .title
+  {
+    float: left;
+  }
+
+  /* 'who am i' Block */
+  #block-stuartc_module-0
+  {
+    float: left;
+    margin: 0 20px 0 0;
+    width: 563px;
+  }
+
+  #block-stuartc_module-0 H2.title IMG
+  {
+    padding-top: 1px;
+  }
+
+  #block-stuartc_module-0 IMG
+  {
+    float: left;
+    margin-right: 10px;
+  }
+
+  #block-stuartc_module-0 DT
+  {
+    color: #C5000B;
+    float: left;
+    font-weight: bold;
+    line-height: 0.5em;
+    margin: 0 0 10px;
+    width: 75px;
+  }
+
+  #block-stuartc_module-0 DD
+  {
+    line-height: 0.5em;
+    margin: 0 0 10px;
+  }
+
+  #block-stuartc_module-0 .biography
+  {
+    line-height: 1.5em;
+    padding-top: 10px;
+    text-align: justify;
+  }
+
+  #block-stuartc_module-0 .biography STRONG
+  {
+    color: #C5000B;
+    font-style: italic;
+  }
+
+
+  /* 'contact' Block */
+  #block-stuartc_module-1
+  {
+    float: left;
+    margin: 0 0 50px;
+    width: 357px;
+  }
+
+  #block-stuartc_module-1 H2.title IMG
+  {
+    padding-top: 33px;
+  }
+
+  #block-stuartc_module-1 UL
+  {
+    list-style: none;
+    margin: 0;
+  }
+
+  #block-stuartc_module-1 UL LI
+  {
+    border-left: 2px solid #000;
+    float: left;
+  }
+
+  #block-stuartc_module-1 UL LI A:active,
+  #block-stuartc_module-1 UL LI A:hover
+  {
+    -khtml-opacity: 0.5;
+    -moz-opacity: 0.5;
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+  }
+
+  #block-stuartc_module-1 UL LI A
+  {
+    display: block;
+    margin-right: 1px;
+  }
+
+  #block-stuartc_module-1 UL LI IMG
+  {
+    display: block;
+  }
+
+  #block-stuartc_module-1 UL LI.email A
+  {
+    background-color: #CCC;
+  }
+
+  #block-stuartc_module-1 UL LI.twitter A
+  {
+    background-color: #33CCFF;
+  }
+
+  #block-stuartc_module-1 UL LI.drupal A
+  {
+    background-color: #0077C0;
+  }
+
+  #block-stuartc_module-1 UL LI.facebook A
+  {
+    background-color: #3B5998;
+  }
+
+  #block-stuartc_module-1 UL LI.last_fm A
+  {
+    background-color: #D6261D;
+    margin-right: 0;
+  }
+
+
+  /* Design Block */
+  #block-views-design-block_1
+  {
+    float: left;
+    margin: 0 20px 50px 0;
+    width: 563px;
+  }
+
+  #block-views-design-block_1 .title,
+  #block-views-design-block_1 .title IMG
+  {
+    display: block;
+  }
+
+  #block-views-design-block_1 .content
+  {
+    border-top: 5px solid #000;
+  }
+
+  #block-views-design-block_1 .views-row-even,
+  #block-views-design-block_1 .views-row-odd
+  {
+    margin-top: 10px;
+  }
+
+  #block-views-design-block_1 .views-row-even A IMG,
+  #block-views-design-block_1 .views-row-odd A IMG
+  {
+    display: block;
+  }
+
+
+  /* Modules Block */
+  #block-views-modules-block_1
+  {
+    float: left;
+    margin-bottom: 50px;
+    width: 357px;
+  }
+
+  #block-views-modules-block_1 .title,
+  #block-views-modules-block_1 .title IMG
+  {
+    display: block;
+  }
+
+  #block-views-modules-block_1 .content
+  {
+    border-top: 5px solid #000;
+  }
+
+  #block-views-modules-block_1 A.views-row:active,
+  #block-views-modules-block_1 A.views-row:hover
+  {
+    background-color: #C5000B;
+  }
+
+  #block-views-modules-block_1 .views-row-even,
+  #block-views-modules-block_1 .views-row-odd
+  {
+    display: block;
+    height: 100px;
+    margin-top: 10px;
+    position: relative;
+  }
+
+  #block-views-modules-block_1 .views-row-even
+  {
+    background-color: #CCC;
+  }
+
+  #block-views-modules-block_1 .views-row-odd
+  {
+    background-color: #000;
+  }
+
+  #block-views-modules-block_1 .views-field-title IMG
+  {
+    bottom: 0;
+    position: absolute;
+    right: 0;
+  }
+
+  /* Photos Block */
+  #block-views-photos-block_1
+  {
+    clear: left;
+  }
+
+  #block-views-photos-block_1 UL
+  {
+    margin: 0;
+    list-style: none;
+  }
+
+  #block-views-photos-block_1 LI
+  {
+    border: 1px solid #000;
+    float: left;
+    margin-right: 16px;
+  }
+
+  #block-views-photos-block_1 IMG
+  {
+    display: block;
+  }
+
+  /* Block titles */
+  .block_title_black_vertical .title IMG
+  {
+    border-right: 5px solid #000;
+    margin-right: 10px;
+    float: left;
+  }
+
+  /* Block more */
+  .block_title_black .more-link,
+  .block_title_black_vertical .more-link
+  {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1;
+  }

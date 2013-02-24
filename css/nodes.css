@@ -1,0 +1,376 @@
+/**
+ * Designs page
+ */
+  BODY.page-s-design-s #content-area .title
+  {
+    border-bottom: 10px solid #CCC;
+    display: block;
+    margin-bottom: 50px;
+  }
+
+  BODY.page-s-design-s #content-area .title IMG
+  {
+    display: block;
+  }
+
+  BODY.page-s-design-s #content-area .views-field-title IMG
+  {
+    display: block;
+  }
+
+  BODY.page-s-design-s #content-area .views-row
+  {
+    display: block;
+    float: left;
+    font-size: 0.8333em;
+    height: 225px;
+    margin-bottom: 25px;
+    width: 465px;
+  }
+
+  BODY.page-s-design-s #content-area .views-row-odd
+  {
+    margin-right: 10px;
+  }
+
+  BODY.page-s-design-s #content-area .views-row LABEL
+  {
+    font-weight: bold;
+  }
+
+  BODY.page-s-design-s #content-area .views-row .views-field-field-header-image-fid
+  {
+    border-bottom: 2px solid #000;
+    border-top: 2px solid #000;
+    margin-bottom: 10px;
+    padding: 2px 0;
+  }
+
+  BODY.page-s-design-s #content-area .views-row .views-field-field-header-image-fid IMG
+  {
+    cursor: pointer;
+    display: block;
+  }
+
+  BODY.page-s-design-s #content-area .views-row .views-field-field-header-image-fid .view-screenshot
+  {
+    -khtml-opacity: 0.75;
+    -moz-opacity: 0.75;
+    display: none;
+    filter: alpha(opacity=75);
+    margin-top: -80px;
+    opacity: 0.75;
+  }
+
+  BODY.page-s-design-s #content-area .views-row .views-field-body
+  {
+    float: left;
+    padding-right: 25px;
+    width: 225px;
+  }
+
+  BODY.page-s-design-s #content-area .views-row .views-field-body P
+  {
+    margin: 0 0 10px;
+    text-align: justify;
+  }
+
+  BODY.page-s-design-s #content-area .views-row .views-field-field-url-value
+  {
+    margin-top: 10px;
+  }
+
+
+/**
+ * Module pages
+ */
+  BODY.node-type-module .content .title
+  {
+    border-bottom: 10px solid #CCC;
+    display: block;
+  }
+
+  BODY.node-type-module .content .title IMG
+  {
+    display: block;
+  }
+
+  BODY.node-type-module .content .details
+  {
+    float: left;
+    line-height: 1.5em;
+    text-align: justify;
+    margin-right: -587px;
+    padding-right: 10px;
+    width: 577px;
+  }
+
+  BODY.node-type-module .content .description P
+  {
+    margin: 5px 0 20px;
+  }
+
+  BODY.node-type-module .content .resources
+  {
+    float: left;
+    width: 353px;
+    margin: 5px -940px 0 587px;
+  }
+
+  BODY.node-type-module .content .resources .screenshot IMG
+  {
+    display: block;
+  }
+
+  BODY.node-type-module .content .resources .screenshot IMG.imagecache-screenshot,
+  BODY.node-type-module .content .resources .screenshot IMG.no-screenshot
+  {
+    border: 5px solid #CCC;
+    padding: 5px;
+  }
+
+
+/**
+ * Modules page.
+ */
+  BODY.page-s-module-s #content-area .title
+  {
+    border-bottom: 10px solid #CCC;
+    display: block;
+    margin-bottom: 50px;
+  }
+
+  BODY.page-s-module-s #content-area .title IMG
+  {
+    display: block;
+  }
+
+  BODY.page-s-module-s .view-id-modules A:active,
+  BODY.page-s-module-s .view-id-modules A:hover
+  {
+    background-color: #C5000B;
+  }
+
+  BODY.page-s-module-s .view-id-modules .views-row-even,
+  BODY.page-s-module-s .view-id-modules .views-row-odd
+  {
+    display: block;
+    float: left;
+    height: 155px;
+    margin: 0 5px 5px 0;
+    position: relative;
+    width: 310px;
+  }
+
+  BODY.page-s-module-s .view-id-modules .views-row-pos-3
+  {
+    margin-right: 0;
+  }
+
+  BODY.page-s-module-s .view-id-modules .views-row-even
+  {
+    background-color: #CCC;
+  }
+
+  BODY.page-s-module-s .view-id-modules .views-row-odd
+  {
+    background-color: #000;
+  }
+
+  BODY.page-s-module-s .view-id-modules .views-field-title IMG
+  {
+    bottom: 0;
+    position: absolute;
+    right: 0;
+  }
+
+/**
+ * Module page.
+ */
+  BODY.node-type-module .content .details A
+  {
+    font-weight: bold;
+  }
+
+  BODY.node-type-module .content .details H2.section-title-red
+  {
+    border-bottom: 3px solid #C5000B;
+    display: block;
+    margin-top: 50px;
+  }
+
+  BODY.node-type-module .content .details H2.section-title-red IMG
+  {
+    display: block;
+  }
+
+  BODY.node-type-module .content .details .changelog,
+  BODY.node-type-module .content .details .downloads
+  {
+    position: relative;
+  }
+
+  BODY.node-type-module .content .details .changelog IMG,
+  BODY.node-type-module .content .details .downloads IMG
+  {
+    display: block;
+    margin-top: 50px;
+  }
+
+  BODY.node-type-module .content .details .changelog A.more,
+  BODY.node-type-module .content .details .downloads A.more
+  {
+    font-weight: bold;
+    position: absolute;
+    right: 0;
+    top: -2px;
+  }
+
+  BODY.node-type-module .content .details .changelog .entries,
+  BODY.node-type-module .content .details .downloads .entries
+  {
+    border-top: 3px solid #C5000B;
+    color: #666;
+    font-size: 0.9167em;
+    padding: 10px;
+  }
+
+  BODY.node-type-module .content .details .changelog .entries A
+  {
+    background-image: url('../images/external.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    font-weight: normal;
+    padding-right: 12px;
+  }
+
+  BODY.node-type-module .content .details .downloads TABLE
+  {
+    width: 100%;
+  }
+
+  BODY.node-type-module .content .details .downloads TABLE TR
+  {
+    background-color: #FFF;
+  }
+
+  BODY.node-type-module .content .details .downloads TABLE TR.odd
+  {
+    background-color: #F6F6F6;
+  }
+
+  BODY.node-type-module .content .details .downloads TABLE TD.type
+  {
+    background-color: #FFF;
+    border-bottom: 2px solid #000;
+    border-top: 10px solid #FFF;
+    color: #000;
+    font-style: italic;
+    font-weight: bold;
+    text-align: right;
+  }
+
+  BODY.node-type-module .content .resources .usage,
+  BODY.node-type-module .content .resources .links
+  {
+    margin-top: 10px;
+  }
+
+  BODY.node-type-module .content .resources .usage IMG,
+  BODY.node-type-module .content .resources .links IMG
+  {
+    display: block;
+  }
+
+  BODY.node-type-module .content .resources .usage IMG.chart
+  {
+    border: 5px solid #CCC;
+    padding: 5px;
+  }
+
+  BODY.node-type-module .content .resources .links UL
+  {
+    border-top: 5px solid #CCC;
+    color: #CCC;
+    margin-top: 0;
+    padding-top: 5px;
+  }
+
+  BODY.node-type-module .content .resources .links A
+  {
+    font-weight: bold;
+  }
+
+
+/**
+ * Module changelog.
+ */
+  #changelog .content .title
+  {
+    border-bottom: 10px solid #CCC;
+    display: block;
+  }
+
+  #changelog .content .title IMG
+  {
+    display: block;
+  }
+
+  #changelog .build .version IMG
+  {
+    display: block;
+  }
+
+  #changelog .build .version
+  {
+    margin-top: 25px;
+  }
+
+  #changelog .build .version .entries
+  {
+    border-top: 3px solid #CCC;
+    color: #666;
+    font-size: 0.9167em;
+    padding: 10px;
+  }
+
+  #changelog .build .version .entries A
+  {
+    background-image: url('../images/external.png');
+    background-position: right;
+    background-repeat: no-repeat;
+    font-weight: normal;
+    padding-right: 12px;
+  }
+
+
+/**
+ * Photos page.
+ */
+  BODY.page-s-photo-s #content-area .title
+  {
+    border-bottom: 10px solid #CCC;
+    display: block;
+    margin-bottom: 50px;
+  }
+
+  BODY.page-s-photo-s #content-area .title IMG
+  {
+    display: block;
+  }
+
+  BODY.page-s-photo-s .view-id-photos .views-row
+  {
+    float: left;
+    margin: 0 5px 5px 0;
+  }
+
+  BODY.page-s-photo-s .view-id-photos .views-row IMG
+  {
+    display: block;
+  }
+
+  BODY.page-s-photo-s .view-id-photos .views-row-pos-5
+  {
+    margin-right: 0;
+  }
